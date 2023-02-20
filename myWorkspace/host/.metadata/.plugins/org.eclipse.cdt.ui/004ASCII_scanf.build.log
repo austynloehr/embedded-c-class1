@@ -1,7 +1,5 @@
-21:13:41 **** Rebuild of configuration Debug for project 004ASCII_scanf ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
-gcc -o 004ASCII_scanf.exe main.o 
+20:21:09 **** Clean-only build of configuration Debug for project 004ASCII_scanf ****
+rm -rf 004ASCII_scanf.exe main.d main.o 
 
-21:13:41 Build Finished. 0 errors, 0 warnings. (took 252ms)
+20:21:09 Build Finished. 0 errors, 0 warnings. (took 155ms)
 

@@ -1,1 +1,5 @@
-Info: Nothing to build for 001VarAddresses
+20:21:16 **** Clean-only build of configuration Debug for project 001VarAddresses ****
+rm -rf 001VarAddresses.exe main.o main.d 
+
+20:21:16 Build Finished. 0 errors, 0 warnings. (took 89ms)
+

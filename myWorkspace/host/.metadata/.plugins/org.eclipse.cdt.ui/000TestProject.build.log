@@ -1,5 +1,5 @@
-21:32:14 **** Clean-only build of configuration Debug for project 000TestProject ****
-rm -rf main.o main.d 000TestProject.exe 
+20:21:18 **** Clean-only build of configuration Debug for project 000TestProject ****
+rm -rf main.d main.o 000TestProject.exe 
 
-21:32:14 Build Finished. 0 errors, 0 warnings. (took 92ms)
+20:21:18 Build Finished. 0 errors, 0 warnings. (took 100ms)
 
