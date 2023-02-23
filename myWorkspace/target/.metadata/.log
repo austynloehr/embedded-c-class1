@@ -960,3 +960,87 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data file:/C:/Users/a
 
 !ENTRY org.eclipse.cdt.core 1 0 2023-02-19 20:20:32.223
 !MESSAGE Indexed '002Sizeof' (3 sources, 55 headers) in 0.17 sec: 2,099 declarations; 2,980 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.039%)
+!SESSION 2023-02-22 21:45:56.641 -----------------------------------------------
+eclipse.buildId=Version 1.11.2
+java.version=11.0.16
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-02-22 21:46:09.812
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-02-22 21:46:09.876
+!MESSAGE Log4j initialized with config file C:\Users\austy\Documents\Coding\C\embedded-c-class1\myWorkspace\target\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-02-22 21:46:15.217
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2023-02-22 21:56:08.816 -----------------------------------------------
+eclipse.buildId=Version 1.11.2
+java.version=11.0.16
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-02-22 21:56:13.674
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-02-22 21:56:13.721
+!MESSAGE Log4j initialized with config file C:\Users\austy\Documents\Coding\C\embedded-c-class1\myWorkspace\target\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-02-22 21:56:17.813
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-22 21:57:20.099
+!MESSAGE Indexed '000TestProject' (3 sources, 53 headers) in 0.733 sec: 1,949 declarations; 2,831 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.042%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-22 21:57:20.918
+!MESSAGE Indexed '001HelloWorld' (3 sources, 55 headers) in 0.275 sec: 2,099 declarations; 2,975 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.039%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-22 21:57:22.997
+!MESSAGE Indexed '002Sizeof' (3 sources, 55 headers) in 0.157 sec: 2,099 declarations; 2,980 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.039%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-22 21:57:23.191
+!MESSAGE Indexed '003Add' (3 sources, 55 headers) in 0.189 sec: 2,102 declarations; 2,979 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.039%)
+!SESSION 2023-02-22 22:01:55.635 -----------------------------------------------
+eclipse.buildId=Version 1.11.2
+java.version=11.0.16
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-02-22 22:02:00.133
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-02-22 22:02:00.180
+!MESSAGE Log4j initialized with config file C:\Users\austy\Documents\Coding\C\embedded-c-class1\myWorkspace\target\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-02-22 22:02:04.515
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-22 22:06:32.037
+!MESSAGE Indexed '003AddCopy' (3 sources, 55 headers) in 0.54 sec: 2,102 declarations; 2,979 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.039%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-22 22:06:36.228
+!MESSAGE Indexed '002SizeofCopy' (3 sources, 55 headers) in 0.214 sec: 2,099 declarations; 2,980 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.039%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-22 22:06:41.777
+!MESSAGE Indexed '001HelloWorldCopy' (3 sources, 0 headers) in 0.015 sec: 69 declarations; 63 references; 12 unresolved inclusions; 0 syntax errors; 36 unresolved names (21%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-22 22:06:49.854
+!MESSAGE Indexed '000TestProjectCopy' (3 sources, 53 headers) in 0.134 sec: 1,949 declarations; 2,831 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.042%)
+!SESSION 2023-02-22 22:07:10.459 -----------------------------------------------
+eclipse.buildId=Version 1.11.2
+java.version=11.0.16
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-02-22 22:07:17.464
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-02-22 22:07:17.510
+!MESSAGE Log4j initialized with config file C:\Users\austy\Documents\Coding\C\embedded-c-class1\myWorkspace\target\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-02-22 22:07:21.465
+!MESSAGE Started RMI Server, listening on port 41337
